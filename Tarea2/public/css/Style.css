@@ -1,0 +1,19 @@
+#titulo{
+font-size: 45px;
+}
+
+.subtitulo{
+    font-size: 30px;
+    color: olivedrab;
+}
+
+ul, ol {
+  font-size: 21px;
+  color: gray; /* Puedes cambiar el color a tu preferencia */
+}
+
+p,a{
+    font-size: 21px;
+    color:chocolate
+
+}
